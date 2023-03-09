@@ -1,0 +1,99 @@
+.mainContainer {
+    width: 100%;
+    height: 100vh;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 95%;
+    max-width: 1300px;
+    height: 90vh;
+    display: grid;
+   
+    grid-template-columns: repeat(6,1fr);
+    grid-template-rows: repeat(3,1fr);
+    display: flex;
+    flex-wrap: wrap;
+    gap:3em;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+    width: 150px;
+    height: 200px;
+    position: relative;
+    z-index: 1;
+
+}
+.CardImg{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    position: absolute;
+    z-index: 2;
+}
+.CardOverlay{
+    cursor: pointer;
+    position: absolute; 
+    top: 0px; 
+    z-index: 3;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    font-size: 2em;
+    font-family: 'Poppins', sans-serif;
+    flex-direction: column;
+    background-color: green;
+}
+.CardOverlay img{
+    width:70%;
+}
+.win{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    position: fixed;
+    z-index: 120;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modalWin{
+    z-index: 125;
+    background-color: white;
+    opacity: 1;
+    width: 100%;
+    position: absolute;
+    padding: 2em;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.btnCont{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top:1em;
+}
+
+.btnCont button{
+    padding: 1em;
+    font-family: 'Poppins', sans-serif; 
+    cursor: pointer;
+    background-color: transparent;
+    border:1px solid black;
+    color:black;
+}

@@ -1,0 +1,55 @@
+[
+    {
+        "cover": "/images/poles/main.webp",
+        "color":"red",
+        "name":"Mango",
+        "page":"main"
+
+    },
+    {
+        "cover":"/images/poles/com.webp",
+        "color":"green",
+        "page":"com"
+
+    },
+    {
+        "cover":"/images/poles/event.webp",
+        "color":"blue",
+        "page":"event"
+
+    },
+    {
+        "cover":"/images/poles/goodies.webp",
+        "color":"yellow",
+        "page":"goodies"
+
+    },
+    {
+        "cover":"/images/poles/bureau.webp",
+        "color":"red",
+        "page":"bureau"
+    },
+    {
+        "cover":"/images/poles/secu.webp",
+        "color":"red",
+        "page":"secu"
+    },
+    {
+        "cover":"/images/poles/soiree.webp",
+        "color":"red",
+        "page":"soiree"
+
+    },
+    {
+        "cover":"/images/poles/sponsor.webp",
+        "color":"pink",
+        "page":"sponsor"
+
+    },
+    {
+        "cover":"https://images.unsplash.com/photo-1677272605969-c85da19cf2cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1175&q=80",
+        "color":"yellow"
+
+    }
+    
+]

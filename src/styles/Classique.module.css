@@ -1,0 +1,25 @@
+.centerElement {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+
+.soir {
+    width: 35%;
+    min-width: 500px;
+    height: 100vh;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+
+.soir img {
+    width:100%;
+    object-fit: contain;
+    
+}

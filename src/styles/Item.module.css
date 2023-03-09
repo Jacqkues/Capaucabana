@@ -1,0 +1,57 @@
+
+.projectItemContainer{
+    cursor: pointer;
+    line-height: 1.25;
+    padding: 5px 0;
+}
+
+.titleItem{
+    position: relative;
+}
+
+.titleImage{
+    position: fixed;
+    left:45vw;
+    width: auto;
+    height: clamp(200px,20vw, 20vw);
+    object-fit: cover;
+    top:30vh;
+    pointer-events: none;
+    transition: transform 1s cubic-bezier(0.165, 0.84, 0.44, 1)
+}
+.menuTitle {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 8.5vw;
+    text-transform: lowercase;
+    z-index: 1;
+    line-height: 1.1;
+    font-weight: 700;
+}
+.menuTitle.clone {
+    position: absolute;
+    top: 0;
+    pointer-events: none;
+    color: yellow;
+    clip-path: inset(0 100% 0 0);
+    transition: all 0.5s cubic-bezier(0.77, 0, 0.175, 1);
+}
+.menuTitle:not(.clone) {
+    -webkit-text-stroke: 1px yellow;
+    color: transparent;
+}
+.menuTitle:not(.clone):hover {
+    cursor: pointer;
+}
+.menuTitle:not(.clone):hover ~ .clone {
+    clip-path: inset(0 0 0 0);
+}
+
+@media (max-width: 700px){
+    .projectItemContainer{
+        padding: 25px 0;
+        width:auto
+    }
+    .titleImage{
+        display: none;
+    }
+}

@@ -1,0 +1,47 @@
+.gridItemMedia{
+    width:100%;
+    height: 100%;
+    object-fit: contain;
+    z-index: 2;
+    cursor: pointer;
+}
+.gridItemMediaDiv{
+
+    width:100%;
+    height: 100%;
+    z-index: 3;
+    cursor: pointer;
+    background-color: red;
+    
+}
+
+.contt{
+    position: relative; 
+    z-index: 1;
+    width:100%;
+    height: 100%;
+}
+.gridItemMedia2{
+    position: absolute; 
+    z-index: 2;
+}
+.overlay{
+    cursor: pointer;
+    position: absolute; 
+    top: 0px; 
+    z-index: 3;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    font-size: 2em;
+    font-family: 'Poppins', sans-serif;
+    flex-direction: column;
+}
+
+.overlay p{
+    opacity: 1;
+    mix-blend-mode: difference;
+}

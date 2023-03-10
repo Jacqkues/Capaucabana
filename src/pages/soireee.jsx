@@ -39,8 +39,7 @@ export default function Soiree() {
                 <div className={styles.soir}>
 
                 
-                    <motion.img src={"/images/sc.png"} layout='fill'
-                        objectFit='contain'
+                    <motion.img src={"/images/sc.png"} 
                         animate={{ scale: 1.02 ,
                             shadow: '0px 0px 20px 0px rgba(0,0,0,0.75)',
                         }}

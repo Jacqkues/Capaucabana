@@ -58,7 +58,7 @@ export default function ImageLink({ element, index }) {
 
 
 
-      <motion.img loading='lazy' onClick={() => click()} className={styles.gridItemMedia} src={element.cover} alt=""
+      <motion.img onClick={() => click()} className={styles.gridItemMedia} src={element.cover} alt=""
         layoutId={`container-${index}`}
         transition={defautTransition}
         exit={{ 

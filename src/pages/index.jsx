@@ -178,15 +178,15 @@ export default function Home() {
           </motion.div>
         </div>}
 
-        {!gridVisible && <div className={styles.listElement} >
+        {!gridVisible && <motion.div className={styles.listElement} >
           {mapData.map((element, index) => (
-            <div key={index} className={styles.elementL}>
+            <motion.div key={index} className={styles.elementL}>
               <div className={styles.thumbnailWrapper}>
                 <ImageLink   element={element} index={index} />
               </div>
-            </div>
+            </motion.div>
           ))}
-        </div>}
+        </motion.div>}
 
       </motion.div>
 

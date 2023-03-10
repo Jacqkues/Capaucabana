@@ -36,9 +36,9 @@ export const MembresPoles ={
         ]
     },
     bureau:{
-        text:"bla bla bla",
+        text:"notre secret , passer sous le bureau",
         membres:[
-            {nom:"Bianca del Rio",cover:"/images/membres/sacha.webp",color:"green",text:"blablabla"},
+            {nom:"Bianca del Rio",cover:"/images/membres/sacha.webp",color:"green",text:"jurançon la boisson des champions"},
             {nom:"King Julian",cover:"/images/membres/julien.webp",color:"green",text:"blablabla"},
             {nom:"SunLight Aigrie",cover:"/images/membres/nat.webp",color:"green",text:"blablabla"},
             {nom:"Darridolina",cover:"/images/membres/laura.webp",color:"yellow",text:"blablabla"},
@@ -47,7 +47,7 @@ export const MembresPoles ={
         ]
     },
     secu:{
-        text:"bla bla bla",
+        text:"Règle n°1 du pôle sécu : on ne parle pas du pôle sécu",
         membres:[
             {nom:"Lip Filler",cover:"/images/membres/heras.webp",color:"green",text:"blablabla"},
             {nom:"Martiniquais sucré",cover:"/images/membres/marko.webp",color:"yellow",text:"blablabla"},
@@ -69,9 +69,9 @@ export const MembresPoles ={
         ]
     },
     sponsor:{
-        text:"bla bla bla",
+        text:"",
         membres:[
-            {nom:"Sao Millot",cover:"/images/membres/teo.webp",color:"green",text:"blablabla",easteregg:"https://pornhub.com"},
+            {nom:"Sao Millot",cover:"/images/membres/teo.webp",color:"green",text:"Dou brazil",easteregg:"https://pornhub.com"},
             {nom:"O Corredor",cover:"/images/membres/hugo.webp",color:"green",text:"blablabla"},
             {nom:"Dieguinho Macaquinho",cover:"/images/membres/diego.webp",color:"green",text:"blablabla"},
         ]

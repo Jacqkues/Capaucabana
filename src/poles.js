@@ -2,7 +2,7 @@ export const MembresPoles ={
     main:{
         text:"Capaucabana c'est LA liste bde de l'année !! Clique sur le bon christ redempteur pour découvrir notre clip !",
         membres:[
-            {nom:"du fun",cover:"/images/cr.webp",color:"green",text:"",easteregg:"https://youtube.com"},
+            {nom:"du fun",cover:"/images/cr.webp",color:"green",text:"",easteregg:"https://www.youtube.com/watch?v=QQ6Ybf1emOM"},
             {nom:"Ultra funny",cover:"/images/poles/main.webp",color:"green",text:""},
         ]
 

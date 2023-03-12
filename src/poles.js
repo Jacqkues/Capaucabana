@@ -20,15 +20,15 @@ export const MembresPoles ={
     event:{
         text:"Au pôle event, on brasse du vent, et tout ça sans effort",
         membres:[
-            {nom:"Hippo de janeiro",cover:"/images/membres/hipo.webp",color:"green",text:""},
+            {nom:"Hippo de janeiro",cover:"/images/membres/hipo.webp",color:"green",text:"Para que serve o seu milhão se você tirar a vida?"},
             {nom:"Jacocaina",cover:"/images/membres/jak.webp",color:"yellow",text:"Plata o popo ?"},
             {nom:"Pacpaco dos tropicos",cover:"/images/membres/pac.webp",color:"green",text:"Quand c'est trop, c'est Pacopaco"},
-            {nom:"Samba King",cover:"/images/membres/sim.webp",color:"pink",text:"Que miras bobo",easteregg:"https://img.20mn.fr/a1eAWPxtQTO89h18YK4Kqyk/768x492_topshot-a-man-holds-a-t-shirt-with-an-image-of-argentine-forward-lionel-messi-and-a-phrase-reading-what-are-you-looking-at-you-fool-at-a-store-in-buenos-aires-on-december-12-2022-argentine-fans-pride-at-finally-seeing-lionel-messi-in-charismatic-leader-mode-sparked-a-commercial-furore-by-selling-products-with-a-quarrelsome-phrase-of-his-after-defeating-the-netherlands-4-3-on-penalties-in-the-quarterfinals-of-the-qatar-2022-world-cup-photo-by-luis-robayo-afp"},
+            {nom:"Samba King",cover:"/images/membres/sim.webp",color:"yellow",text:"Que miras bobo",easteregg:"https://img.20mn.fr/a1eAWPxtQTO89h18YK4Kqyk/768x492_topshot-a-man-holds-a-t-shirt-with-an-image-of-argentine-forward-lionel-messi-and-a-phrase-reading-what-are-you-looking-at-you-fool-at-a-store-in-buenos-aires-on-december-12-2022-argentine-fans-pride-at-finally-seeing-lionel-messi-in-charismatic-leader-mode-sparked-a-commercial-furore-by-selling-products-with-a-quarrelsome-phrase-of-his-after-defeating-the-netherlands-4-3-on-penalties-in-the-quarterfinals-of-the-qatar-2022-world-cup-photo-by-luis-robayo-afp"},
 
         ]
     },
     goodies:{
-        text:"bla bla bla",
+        text:"",
         membres:[
             {nom:"Le traitre",cover:"/images/membres/jul.webp",color:"green",text:""},
             {nom:"Rio Dejardin",cover:"/images/membres/maxi.webp",color:"yellow",text:""},

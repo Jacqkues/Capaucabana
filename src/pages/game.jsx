@@ -44,6 +44,15 @@ export default function Game() {
         "images/memories/29.webp",
         "images/memories/30.webp",
         "images/memories/31.webp",
+        "images/memories/32.webp",
+        "images/memories/33.webp",
+        "images/memories/34.webp",
+        "images/memories/35.webp",
+        "images/memories/36.webp",
+        "images/memories/37.webp",
+        "images/memories/38.webp",
+        "images/memories/39.webp",
+        "images/memories/40.webp",
     ]
 
     const shuffledData = mapData.sort(() => Math.random() - 0.5)

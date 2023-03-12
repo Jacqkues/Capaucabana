@@ -1,8 +1,8 @@
 export const MembresPoles ={
     main:{
-        text:"Capaucabana c'est LA liste bde de l'année",
+        text:"Capaucabana c'est LA liste bde de l'année !! Clique sur le bon christ redempteur pour découvrir notre clip !",
         membres:[
-            {nom:"du fun",cover:"/images/cr.webp",color:"green",text:""},
+            {nom:"du fun",cover:"/images/cr.webp",color:"green",text:"",easteregg:"https://youtube.com"},
             {nom:"Ultra funny",cover:"/images/poles/main.webp",color:"green",text:""},
         ]
 
@@ -10,20 +10,20 @@ export const MembresPoles ={
 
 
     com:{
-        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        text:"Metteuses en scène à leurs heures perdues",
         membres:[
-            {nom:"Ayanakamura",cover:"/images/membres/aya.webp",color:"green",text:""},
-            {nom:"L'amazone",cover:"/images/membres/tiff.webp",color:"yellow",text:""},
+            {nom:"Ayanakamura",cover:"/images/membres/aya.webp",color:"green",text:"Chanteuse de samba à plein temps"},
+            {nom:"L'amazone",cover:"/images/membres/tiff.webp",color:"blue",text:"Guadeloupéenne perdue dans la forêt amazonnienne"},
         ]
     },
 
     event:{
-        text:"bla bla bla",
+        text:"Au pôle event, on brasse du vent, et tout ça sans effort",
         membres:[
             {nom:"Hippo de janeiro",cover:"/images/membres/hipo.webp",color:"green",text:""},
-            {nom:"Jacocaina",cover:"/images/membres/jak.webp",color:"yellow",text:""},
-            {nom:"Pacpaco dos tropicos",cover:"/images/membres/pac.webp",color:"green",text:""},
-            {nom:"Samba King",cover:"/images/membres/sim.webp",color:"pink",text:"",easteregg:"https://static.wikia.nocookie.net/trolls/images/c/c5/Image_of_branch2.png/revision/latest/smart/width/250/height/250?cb=20221102080027"},
+            {nom:"Jacocaina",cover:"/images/membres/jak.webp",color:"yellow",text:"Plata o popo ?"},
+            {nom:"Pacpaco dos tropicos",cover:"/images/membres/pac.webp",color:"green",text:"Quand c'est trop, c'est Pacopaco"},
+            {nom:"Samba King",cover:"/images/membres/sim.webp",color:"pink",text:"Que miras bobo",easteregg:"https://img.20mn.fr/a1eAWPxtQTO89h18YK4Kqyk/768x492_topshot-a-man-holds-a-t-shirt-with-an-image-of-argentine-forward-lionel-messi-and-a-phrase-reading-what-are-you-looking-at-you-fool-at-a-store-in-buenos-aires-on-december-12-2022-argentine-fans-pride-at-finally-seeing-lionel-messi-in-charismatic-leader-mode-sparked-a-commercial-furore-by-selling-products-with-a-quarrelsome-phrase-of-his-after-defeating-the-netherlands-4-3-on-penalties-in-the-quarterfinals-of-the-qatar-2022-world-cup-photo-by-luis-robayo-afp"},
 
         ]
     },
@@ -32,51 +32,52 @@ export const MembresPoles ={
         membres:[
             {nom:"Le traitre",cover:"/images/membres/jul.webp",color:"green",text:""},
             {nom:"Rio Dejardin",cover:"/images/membres/maxi.webp",color:"yellow",text:""},
-            {nom:"Goutinho",cover:"/images/membres/thomas.webp",color:"green",text:""},
+            {nom:"Goutinho",cover:"/images/membres/thomas.webp",color:"green",text:"Melhor duas mordidas de carne do que sete de pato"},
         ]
     },
     bureau:{
         text:"notre secret , passer sous le bureau",
         membres:[
             {nom:"Bianca del Rio",cover:"/images/membres/sacha.webp",color:"green",text:"jurançon la boisson des champions"},
-            {nom:"King Julian",cover:"/images/membres/julien.webp",color:"green",text:""},
-            {nom:"SunLight Aigrie",cover:"/images/membres/nat.webp",color:"green",text:""},
-            {nom:"Darridolina",cover:"/images/membres/laura.webp",color:"yellow",text:""},
-            {nom:"Serena",cover:"/images/membres/victoria.webp",color:"green",text:""},
-            {nom:"Canal de panama",cover:"/images/membres/lisa.webp",color:"green",text:""},
+            {nom:"King Julian",cover:"/images/membres/julien.webp",color:"green",text:"I like to move it, move it"},
+            {nom:"SunLight Aigrie",cover:"/images/membres/nat.webp",color:"green",text:"Attaque coude dans la bouche"},
+            {nom:"Darridolina",cover:"/images/membres/laura.webp",color:"yellow",text:"Version Wish de Ronaldinho, meilleure pour boire des whisky qu'avec un ballon rond"},
+            {nom:"Serena",cover:"/images/membres/victoria.webp",color:"green",text:"La décadence avec élégance"},
+            {nom:"Canal de panama",cover:"/images/membres/lisa.webp",color:"green",text:"L'alcool fait tourner la tête et moi je préfère tourner les serviettes",easteregg:"https://cdn-europe1.lanmedia.fr/var/europe1/storage/images/europe1/people/patrick-sebastien-pourquoi-lanimateur-a-arrete-denvoyer-des-sms-a-emmanuel-macron-4158744/59613944-1-fre-FR/Patrick-Sebastien-pourquoi-l-animateur-a-arrete-d-envoyer-des-SMS-a-Emmanuel-Macron.jpg"},
             {nom:"La loust",cover:"/images/membres/loust.webp",color:"green",text:""},
         ]
     },
     secu:{
         text:"Règle n°1 du pôle sécu : on ne parle pas du pôle sécu",
         membres:[
-            {nom:"Lip Filler",cover:"/images/membres/heras.webp",color:"green",text:""},
-            {nom:"Martiniquais sucré",cover:"/images/membres/marko.webp",color:"yellow",text:""},
-            {nom:"Flamandinho",cover:"/images/membres/mathieu.webp",color:"green",text:""},
-            {nom:"Lucaipirinha",cover:"/images/membres/ricarde.webp",color:"yellow",text:""},
-            {nom:"Tito do brazil",cover:"/images/membres/titou.webp",color:"green",text:""},
-            {nom:"El tanquo le bargo",cover:"/images/membres/dave.webp",color:"green",text:""},
-            {nom:"Momo la fripouille",cover:"/images/membres/momo.webp",color:"green",text:""},
+            {nom:"Lip Filler",cover:"/images/membres/heras.webp",color:"green",text:"The thing goes skrrrahh, pap, pap, ka-ka-ka"},
+            {nom:"Martiniquais sucré",cover:"/images/membres/marko.webp",color:"yellow",text:"Skibiki-pap-pap, and a pu-pu-pudrrrr-boom"},
+            {nom:"Flamandinho",cover:"/images/membres/mathieu.webp",color:"green",text:"Skya, du du du ku ku dun dun poom poom"},
+            {nom:"Lucaipirinha",cover:"/images/membres/ricarde.webp",color:"yellow",text:"You dun know, Big Shaq,ha, yo, yeah-yeah"},
+            {nom:"Tito do brazil",cover:"/images/membres/titou.webp",color:"green",text:"Alright, fire-fire-fire in the booth"},
+            {nom:"El tanquo le bargo",cover:"/images/membres/dave.webp",color:"green",text:"Tanquo le bargo el mafioso bresiliano",easteregg:"https://static.cnews.fr/sites/default/files/football_zinedine_zidane_marco_materazzi_coupe_du_monde_2006_62b42fd1282fa_0.jpg"},
+            {nom:"Momo la fripouille",cover:"/images/membres/momo.webp",color:"green",text:"Frère si je sors la AK, je sais qu'ils feront tous caca"},
+            {nom:"Krylinho",cover:"/images/membres/noe.webp",color:"green",text:"La caisse je la conduit pas, je me la mets"},
         ]
     },
     soiree:{
-        text:"bla bla bla",
+        text:"Des soirées chaudes comme le soleil de Rio",
         membres:[
-            {nom:"Blair",cover:"/images/membres/sara.webp",color:"pink",text:"blablabla"},
-            {nom:"Bernardo dos favélas",cover:"/images/membres/ad.webp",color:"green",text:"blablabla"},
-            {nom:"Kenzucha",cover:"/images/membres/kenza.webp",color:"green",text:"blablabla"},
-            {nom:"Gonzague",cover:"/images/membres/octa.webp",color:"green",text:"blablabla"},
-            {nom:"Raphao pastaga",cover:"/images/membres/raf.webp",color:"green",text:"blablabla"},
-            {nom:"Zitun",cover:"/images/membres/zit.webp",color:"green",text:"blablabla"},
-            {nom:"BBL" ,cover:"/images/membres/boucs.webp",color:"green",text:"blablabla"},
+            {nom:"Blair",cover:"/images/membres/sara.webp",color:"pink",text:""},
+            {nom:"Bernardo dos favélas",cover:"/images/membres/ad.webp",color:"green",text:""},
+            {nom:"Kenzucha",cover:"/images/membres/kenza.webp",color:"green",text:""},
+            {nom:"Gonzague",cover:"/images/membres/octa.webp",color:"green",text:""},
+            {nom:"Raphao pastaga",cover:"/images/membres/raf.webp",color:"green",text:"Je serais le meilleur Hokage"},
+            {nom:"Zitun",cover:"/images/membres/zit.webp",color:"green",text:"Pas besoin d'avoir le bac pour savoir que ma botrk traversa tes pecs"},
+            {nom:"BBL" ,cover:"/images/membres/boucs.webp",color:"green",text:"Intenable, insupportable, irremplaçable"},
         ]
     },
     sponsor:{
-        text:"",
+        text:"Ils ont négocié le contrat de Neymar",
         membres:[
             {nom:"Sao Millot",cover:"/images/membres/teo.webp",color:"green",text:"Dou brazil"},
             {nom:"O Corredor",cover:"/images/membres/hugo.webp",color:"green",text:""},
-            {nom:"Dieguinho Macaquinho",cover:"/images/membres/diego.webp",color:"green",text:""},
+            {nom:"Dieguinho Macaquinho",cover:"/images/membres/diego.webp",color:"green",text:"Não deixe para amanhã o que pode fazer depois de amanhã "},
         ]
     },
     toutlemonde:{

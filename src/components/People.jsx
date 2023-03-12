@@ -48,7 +48,7 @@ export default function People({ element, index , over}) {
                 transition={{ ...defautTransition }}
                 >
                     <p>{element.nom}</p>
-                    <p>{element.text}</p>
+                    <p className={styles.overlayTxt}>{element.text}</p>
                 </motion.div>}
             </motion.div>
 

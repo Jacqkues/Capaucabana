@@ -39,6 +39,12 @@
     font-size: 2em;
     font-family: 'Poppins', sans-serif;
     flex-direction: column;
+    padding-left: 1em;
+    padding-right:1em;
+}
+
+.overlayTxt{
+    font-size: 22px;
 }
 
 .overlay p{

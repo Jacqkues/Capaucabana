@@ -43,7 +43,7 @@ function reducer(state, action) {
     }
 }
 
-export default function Item({ title, itemIndex, url}) {
+export default function Item({ title, itemIndex, url ,LinkUrl}) {
 
     const [state, dispatch] = useReducer(reducer, initialState)
     const listItem = useRef(null)
@@ -143,7 +143,7 @@ export default function Item({ title, itemIndex, url}) {
     }
 
     return (
-        <li className={styles.projectItemContainer} ref={listItem}>
+        <li className={styles.projectItemContainer} ref={listItem} onClick={() => router.push(LinkUrl)}>
             <div className={styles.titleItem}
                 onMouseEnter={handleMouseEnter}
                 onMouseLeave={handleMouseLeave}

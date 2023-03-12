@@ -83,7 +83,7 @@ export const MembresPoles ={
         ]
     },
     toutlemonde:{
-        text:"Capaucabana vous souhaites une bonne semaine de liste !",
+        text:"Capaucabana vous souhaite une bonne semaine de liste !",
         membres:[
             {nom:"Bisous",cover:"/images/toutlemonde.webp",color:"green",text:""},
         ]

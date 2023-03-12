@@ -1,6 +1,6 @@
 export const MembresPoles ={
     main:{
-        text:"Capaucabana c'est LA liste bde de l'année !! Clique sur le bon christ redempteur pour découvrir notre clip !",
+        text:"Capaucabana c'est LA liste BDE de l'année !! Clique sur le bon Christ Rédempteur pour découvrir notre clip !",
         membres:[
             {nom:"du fun",cover:"/images/cr.webp",color:"green",text:"",easteregg:"https://www.youtube.com/watch?v=QQ6Ybf1emOM"},
             {nom:"Ultra funny",cover:"/images/poles/main.webp",color:"green",text:""},
@@ -32,7 +32,7 @@ export const MembresPoles ={
     goodies:{
         text:"Des cadeaux qui vont vous faire danser la samba ",
         membres:[
-            {nom:"Le traitre",cover:"/images/membres/jul.webp",color:"green",text:"Y' a pas que Michel qui danse la samba"},
+            {nom:"Le traitre",cover:"/images/membres/jul.webp",color:"green",text:"Y'a pas que Michel qui danse la samba"},
             {nom:"Rio Dejardin",cover:"/images/membres/maxi.webp",color:"yellow",text:"Fournisseur principal du cartel"},
             {nom:"Goutinho",cover:"/images/membres/thomas.webp",color:"green",text:"Melhor duas mordidas de carne do que sete de pato"},
         ]
@@ -40,7 +40,7 @@ export const MembresPoles ={
     bureau:{
         text:"notre secret , passer sous le bureau",
         membres:[
-            {nom:"Bianca del Rio",cover:"/images/membres/sacha.webp",color:"green",text:"jurançon la boisson des champions"},
+            {nom:"Bianca del Rio",cover:"/images/membres/sacha.webp",color:"green",text:"Jurançon la boisson des champions"},
             {nom:"King Julian",cover:"/images/membres/julien.webp",color:"green",text:"I like to move it, move it"},
             {nom:"SunLight Aigrie",cover:"/images/membres/nat.webp",color:"green",text:"Attaque coude dans la bouche"},
             {nom:"Darridolina",cover:"/images/membres/laura.webp",color:"yellow",text:"Version Wish de Ronaldinho, meilleure pour boire des whisky qu'avec un ballon rond"},
@@ -59,7 +59,7 @@ export const MembresPoles ={
             {nom:"Lucaipirinha",cover:"/images/membres/ricarde.webp",color:"yellow",text:"Ha,yo,yeah-yeah"},
            
            
-            {nom:"Krylinho",cover:"/images/membres/noe.webp",color:"green",text:"La caisse je la conduit pas, je me la mets"},
+            {nom:"Krylinho",cover:"/images/membres/noe.webp",color:"green",text:"La caisse je la conduis pas, je me la mets"},
         ]
     },
     soiree:{
@@ -69,7 +69,7 @@ export const MembresPoles ={
             {nom:"Bernardo dos favélas",cover:"/images/membres/ad.webp",color:"green",text:"Gagner est mon but et la bière ma raison"},
             {nom:"Kenzucha",cover:"/images/membres/kenza.webp",color:"green",text:"A Capaucabana, les soirées sont torrides, la danse est fluide et les cocktails acides"},
             {nom:"Gonzague",cover:"/images/membres/octa.webp",color:"green",text:"Les accidents ne sont pas dus à l'alcool mais à la voiture : mettez un mec bourré dans fauteuil roulant, il ne tuera personne"},
-            {nom:"Raphao pastaga",cover:"/images/membres/raf.webp",color:"green",text:"Je serais le meilleur Hokage"},
+            {nom:"Raphao pastaga",cover:"/images/membres/raf.webp",color:"green",text:"Je serai le meilleur Hokage"},
             {nom:"Zitun",cover:"/images/membres/zit.webp",color:"green",text:"Pas besoin d'avoir le bac pour savoir que ma botrk traversa tes pecs"},
             {nom:"BBL" ,cover:"/images/membres/boucs.webp",color:"green",text:"Intenable, insupportable, irremplaçable"},
         ]

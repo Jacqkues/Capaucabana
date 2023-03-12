@@ -28,7 +28,7 @@ export const MembresPoles ={
         ]
     },
     goodies:{
-        text:"Des cadeaux qui vont vous faire ",
+        text:"Des cadeaux qui vont vous faire danser la samba ",
         membres:[
             {nom:"Le traitre",cover:"/images/membres/jul.webp",color:"green",text:"Y' a pas que Michel qui danse la samba"},
             {nom:"Rio Dejardin",cover:"/images/membres/maxi.webp",color:"yellow",text:"Fournisseur principal du cartel"},

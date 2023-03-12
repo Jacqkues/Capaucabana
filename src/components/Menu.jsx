@@ -20,7 +20,7 @@ export default function Menu({ toggle }) {
     return (
         <motion.div className={styles.main_container}
             key={"menu"}
-            initial={{ opacity: 0 }}
+            initial={{ opacity: 1 }}
             whileInView={{ opacity: 1 }}
             transition={defautTransition}
             exit={{
@@ -28,7 +28,7 @@ export default function Menu({ toggle }) {
             }}
         >
             <div className={styles.headCtn}>
-                <button className={styles.btn} onClick={() => toggle(false)}>
+                <button className={styles.btn} onClick={() => toggle({ view: false, linkurl: "/crt" })}>
                     Close
                 </button>
             </div>
@@ -36,9 +36,12 @@ export default function Menu({ toggle }) {
             <ul>
                 <Item title={"Repas"} itemIndex={0} url={"/images/menu/repas.webp"} />
                 <Item title={"Allos"} itemIndex={1} url={"/images/menu/allo.webp"} />
-                <Item title={"Soirée"} itemIndex={2} url={"/images/menu/soiree.webp"}  LinkUrl={"/soireee"}/>
+                <Item title={"Soirée"} itemIndex={2} url={"/images/menu/soiree.webp"} LinkUrl={"/soireee"} />
                 <Item title={"Events"} itemIndex={3} url={"/images/menu/events.webp"} />
-                <Item title={"Jeu"} itemIndex={4} url={"/images/menu/jeu.webp"} LinkUrl={"/game"}/>
+                <div onClick={() => toggle({ view: false, linkurl: "/game" })}>
+                    <Item title={"Jeu"} itemIndex={4} url={"/images/menu/jeu.webp"} />
+                </div>
+
             </ul>
 
         </motion.div>

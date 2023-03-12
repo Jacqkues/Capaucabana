@@ -28,9 +28,14 @@ export default function Header({ toggleView, view, gridTogle }) {
     const click = () => {
         router.push("/")
       }
+
+    const c = (e) => {
+        setShowMenu(e.view)
+        router.push(e.linkurl)
+    }
     return (
         <>
-            {showMenu && <Menu toggle={setShowMenu} />}
+            {showMenu && <Menu toggle={(e) => c(e)} />}
             <motion.header className={styles.HeaderContainer}
             
             >

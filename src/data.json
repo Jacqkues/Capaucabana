@@ -48,7 +48,8 @@
     },
     {
         "cover":"/images/toutlemonde.webp",
-        "color":"yellow"
+        "color":"yellow",
+        "page":"toutlemonde"
 
     }
     

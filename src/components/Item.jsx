@@ -143,7 +143,7 @@ export default function Item({ title, itemIndex, url ,LinkUrl}) {
     }
 
     return (
-        <li className={styles.projectItemContainer} ref={listItem} onClick={() => router.push(LinkUrl)}>
+        <li className={styles.projectItemContainer} ref={listItem}>
             <div className={styles.titleItem}
                 onMouseEnter={handleMouseEnter}
                 onMouseLeave={handleMouseLeave}

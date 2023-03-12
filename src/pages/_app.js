@@ -3,13 +3,7 @@ import { AnimatePresence } from 'framer-motion'
 
 export default function App({ Component, pageProps, router }) {
 
-  return <AnimatePresence
-    mode="wait"
-    initial={false}
-    onExitComplete={() => {
-      console.log("EXIT COMPLETE", router.asPath);
-    }}
-  >
+  return <AnimatePresence mode="wait">
     <Component {...pageProps} key={router.pathname} />
   </AnimatePresence>
 

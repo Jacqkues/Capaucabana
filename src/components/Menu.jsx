@@ -34,7 +34,7 @@ export default function Menu({ toggle }) {
             </div>
 
             <ul>
-                <Item title={"Repas"} itemIndex={0} url={"/images/menu/repas.webp"} />
+                <Item title={"Repas"} itemIndex={0} url={"/images/menu/repas.webp"} LinkUrl={"/repas"} />
                 <Item title={"Allos"} itemIndex={1} url={"/images/menu/allo.webp"} />
                 <Item title={"Soirée"} itemIndex={2} url={"/images/menu/soiree.webp"}  LinkUrl={"/soireee"}/>
                 <Item title={"Events"} itemIndex={3} url={"/images/menu/events.webp"} />

@@ -34,6 +34,9 @@ export default function Soiree() {
                 style={{ backgroundColor: bgColor, transition: 'background-color 1s ease-in-out' }}
                 transition={defautTransition}
                 onClick={() => router.push('/images/tck.jpg')}
+
+            
+
             >
 
                 <div className={styles.soir}>
@@ -47,6 +50,9 @@ export default function Soiree() {
                           ...defautTransition,
                           repeat: Infinity,
                           repeatType: "reverse"
+                        }}
+                        exit={{
+                            opacity: 0,
                         }}
                     />
 

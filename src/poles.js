@@ -28,10 +28,10 @@ export const MembresPoles ={
         ]
     },
     goodies:{
-        text:"",
+        text:"Des cadeaux qui vont vous faire ",
         membres:[
-            {nom:"Le traitre",cover:"/images/membres/jul.webp",color:"green",text:""},
-            {nom:"Rio Dejardin",cover:"/images/membres/maxi.webp",color:"yellow",text:""},
+            {nom:"Le traitre",cover:"/images/membres/jul.webp",color:"green",text:"Y' a pas que Michel qui danse la samba"},
+            {nom:"Rio Dejardin",cover:"/images/membres/maxi.webp",color:"yellow",text:"Fournisseur principal du cartel"},
             {nom:"Goutinho",cover:"/images/membres/thomas.webp",color:"green",text:"Melhor duas mordidas de carne do que sete de pato"},
         ]
     },
@@ -44,7 +44,7 @@ export const MembresPoles ={
             {nom:"Darridolina",cover:"/images/membres/laura.webp",color:"yellow",text:"Version Wish de Ronaldinho, meilleure pour boire des whisky qu'avec un ballon rond"},
             {nom:"Serena",cover:"/images/membres/victoria.webp",color:"green",text:"La décadence avec élégance"},
             {nom:"Canal de panama",cover:"/images/membres/lisa.webp",color:"green",text:"L'alcool fait tourner la tête et moi je préfère tourner les serviettes",easteregg:"https://cdn-europe1.lanmedia.fr/var/europe1/storage/images/europe1/people/patrick-sebastien-pourquoi-lanimateur-a-arrete-denvoyer-des-sms-a-emmanuel-macron-4158744/59613944-1-fre-FR/Patrick-Sebastien-pourquoi-l-animateur-a-arrete-d-envoyer-des-SMS-a-Emmanuel-Macron.jpg"},
-            {nom:"La loust",cover:"/images/membres/loust.webp",color:"green",text:""},
+            {nom:"La loust",cover:"/images/membres/loust.webp",color:"green",text:"Et ça fait zumba cafew"},
         ]
     },
     secu:{
@@ -63,10 +63,10 @@ export const MembresPoles ={
     soiree:{
         text:"Des soirées chaudes comme le soleil de Rio",
         membres:[
-            {nom:"Blair",cover:"/images/membres/sara.webp",color:"pink",text:""},
-            {nom:"Bernardo dos favélas",cover:"/images/membres/ad.webp",color:"green",text:""},
-            {nom:"Kenzucha",cover:"/images/membres/kenza.webp",color:"green",text:""},
-            {nom:"Gonzague",cover:"/images/membres/octa.webp",color:"green",text:""},
+            {nom:"Blair",cover:"/images/membres/sara.webp",color:"pink",text:"Je ne suis pas paresseuse, juste en mode économie d'énergie"},
+            {nom:"Bernardo dos favélas",cover:"/images/membres/ad.webp",color:"green",text:"Gagner est mon but et la bière ma raison"},
+            {nom:"Kenzucha",cover:"/images/membres/kenza.webp",color:"green",text:"A Capaucabana, les soirées sont torrides, la danse est fluide et les cocktails acides"},
+            {nom:"Gonzague",cover:"/images/membres/octa.webp",color:"green",text:"Les accidents ne sont pas dus à l'alcool mais à la voiture : mettez un mec bourré dans fauteuil roulant, il ne tuera personne"},
             {nom:"Raphao pastaga",cover:"/images/membres/raf.webp",color:"green",text:"Je serais le meilleur Hokage"},
             {nom:"Zitun",cover:"/images/membres/zit.webp",color:"green",text:"Pas besoin d'avoir le bac pour savoir que ma botrk traversa tes pecs"},
             {nom:"BBL" ,cover:"/images/membres/boucs.webp",color:"green",text:"Intenable, insupportable, irremplaçable"},
@@ -76,7 +76,7 @@ export const MembresPoles ={
         text:"Ils ont négocié le contrat de Neymar",
         membres:[
             {nom:"Sao Millot",cover:"/images/membres/teo.webp",color:"green",text:"Dou brazil"},
-            {nom:"O Corredor",cover:"/images/membres/hugo.webp",color:"green",text:""},
+            {nom:"O Corredor",cover:"/images/membres/hugo.webp",color:"green",text:"On me demande souvent pourquoi je n'ai pas de tatouages : Tu as déjà vu une Ferrari avec des autocollants ?"},
             {nom:"Dieguinho Macaquinho",cover:"/images/membres/diego.webp",color:"green",text:"Não deixe para amanhã o que pode fazer depois de amanhã "},
         ]
     },

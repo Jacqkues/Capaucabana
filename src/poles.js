@@ -24,6 +24,8 @@ export const MembresPoles ={
             {nom:"Jacocaina",cover:"/images/membres/jak.webp",color:"yellow",text:"Plata o popo ?"},
             {nom:"Pacpaco dos tropicos",cover:"/images/membres/pac.webp",color:"green",text:"Quand c'est trop, c'est Pacopaco"},
             {nom:"Samba King",cover:"/images/membres/sim.webp",color:"yellow",text:"Que miras bobo",easteregg:"https://img.20mn.fr/a1eAWPxtQTO89h18YK4Kqyk/768x492_topshot-a-man-holds-a-t-shirt-with-an-image-of-argentine-forward-lionel-messi-and-a-phrase-reading-what-are-you-looking-at-you-fool-at-a-store-in-buenos-aires-on-december-12-2022-argentine-fans-pride-at-finally-seeing-lionel-messi-in-charismatic-leader-mode-sparked-a-commercial-furore-by-selling-products-with-a-quarrelsome-phrase-of-his-after-defeating-the-netherlands-4-3-on-penalties-in-the-quarterfinals-of-the-qatar-2022-world-cup-photo-by-luis-robayo-afp"},
+            {nom:"El tanquo le bargo",cover:"/images/membres/dave.webp",color:"green",text:"Tanquo le bargo el mafioso bresiliano",easteregg:"https://static.cnews.fr/sites/default/files/football_zinedine_zidane_marco_materazzi_coupe_du_monde_2006_62b42fd1282fa_0.jpg"},
+            {nom:"Momo la fripouille",cover:"/images/membres/momo.webp",color:"green",text:"Frère si je sors la AK, je sais qu'ils feront tous caca"},
 
         ]
     },
@@ -55,8 +57,8 @@ export const MembresPoles ={
             {nom:"Martiniquais sucré",cover:"/images/membres/marko.webp",color:"yellow",text:"Skya, du du du ku ku dun dun poom poom"},
             {nom:"Flamandinho",cover:"/images/membres/mathieu.webp",color:"green",text:"You dun know, Big Shaq"},
             {nom:"Lucaipirinha",cover:"/images/membres/ricarde.webp",color:"yellow",text:"Ha,yo,yeah-yeah"},
-            {nom:"El tanquo le bargo",cover:"/images/membres/dave.webp",color:"green",text:"Tanquo le bargo el mafioso bresiliano",easteregg:"https://static.cnews.fr/sites/default/files/football_zinedine_zidane_marco_materazzi_coupe_du_monde_2006_62b42fd1282fa_0.jpg"},
-            {nom:"Momo la fripouille",cover:"/images/membres/momo.webp",color:"green",text:"Frère si je sors la AK, je sais qu'ils feront tous caca"},
+           
+           
             {nom:"Krylinho",cover:"/images/membres/noe.webp",color:"green",text:"La caisse je la conduit pas, je me la mets"},
         ]
     },

@@ -10,6 +10,7 @@ import Loader from '@/components/Loader'
 import { AnimatePresence, motionValue, useAnimation, useMotionValue, useSpring } from 'framer-motion'
 import { defautTransition } from '@/utils'
 import { motion } from 'framer-motion'
+
 const inter = Inter({ subsets: ['latin'] })
 
 
